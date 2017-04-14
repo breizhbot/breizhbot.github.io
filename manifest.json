@@ -1,6 +1,6 @@
 {
   "name"              : "BreizhBot",
-  "short_name"        : "BzhBot",
+  "short_name"        : "BreizhBot",
   "description"       : "Le bot à l'ouest !",
   "start_url"         : "/",
   "display"           : "standalone",
